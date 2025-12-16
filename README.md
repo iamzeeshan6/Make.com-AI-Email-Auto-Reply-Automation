@@ -5,7 +5,7 @@ Make.com automation that analyzes incoming emails with OpenAI, generates smart r
 
 This repository contains a simple Make.com automation that automatically handles incoming emails using AI. When an email is received, its content is sent to OpenAI for analysis and response generation. To maintain a natural, human-like interaction, the workflow introduces a configurable delay before sending the reply. Once the delay is completed, the generated response is sent back to the sender, creating an efficient yet realistic email automation system.
 
-✨ Features
+# ✨ Features
 
 # Automatic Email Trigger
 Activates instantly when a new email is received.
